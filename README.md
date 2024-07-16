@@ -1,6 +1,6 @@
 # 📚Library-System-for-Company📚
 <h3>✔️더 자세한 내용은 상단의 pdf 참조✔️</h3>
-![BMSE](https://github.com/user-attachments/assets/6fd2c3e9-a21e-405b-a958-373fac58e02a)
+
 <div>
   <h3>계기</h3>
 </div>
