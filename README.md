@@ -1,16 +1,21 @@
 # 📚Library-System-for-Company📚
-<h3>✔️더 자세한 내용은 상단의 pdf 참조✔️</h3>
+<h3>✔️See pdf above for more details/詳しくは上記PDFをご覧くださいませ/더 자세한 내용은 상단의 pdf 참조✔️</h3>
 
-<div>
-  <h3>계기</h3>
-</div>
-<div>
-도서관에 대한 접근성이 떨어지는 이용자나 
 <br>
-바쁜 일상 속에서 도서관을 방문하기 힘든 시민들이 쉽게 접근하기 위함.
+<div>
+  <h3>Instance/きっかけ/계기</h3>
 </div>
 <div>
-  <h3>내용</h3>
+ 
+This is to provide easy access to users who have difficulty accessing the library or citizens who have difficulty visiting the library due to their busy daily lives.
+
+図書館へのアクセスが困難な利用者や、忙しい日常の中で図書館を訪れることが困難な市民が簡単にアクセスできるようにするため。
+  
+도서관에 대한 접근성이 떨어지는 이용자나 바쁜 일상 속에서 도서관을 방문하기 힘든 시민들이 쉽게 접근하기 위함.
+
+</div>
+<div>
+  <h3>Content/内容/내용</h3>
 </div>
 <div>
 회원<br>
