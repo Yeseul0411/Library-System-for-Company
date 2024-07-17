@@ -83,7 +83,7 @@ Back : JAVA, Servlets&JSP, MySQL, Apache Tomcat
 - メイン画面設計<br>
 - 図書詳細ページの設計(図書目録·検索及び貸出機能)
 </div>
-  <h3>使い技術</h3>
+  <h3>使用技術</h3>
 <div>
 OS : MacOS, Windows 10 <br>
 Version : JDK java 1.8, Apache Tomcat v9 <br>
