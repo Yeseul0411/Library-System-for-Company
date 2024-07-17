@@ -1,7 +1,7 @@
 # 📚Library-System-for-Company📚
 <h3>✔️See pdf above for more details/詳しくは上記PDFをご覧くださいませ/더 자세한 내용은 상단의 pdf 참조✔️</h3>
 
-<details open>
+<details>
   <summary>English</summary>
   <div>
   <h3>Instance</h3>
